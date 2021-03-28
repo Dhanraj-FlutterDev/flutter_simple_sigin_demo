@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926784144498",
+    "project_id": "signindemo-7a2d7",
+    "storage_bucket": "signindemo-7a2d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926784144498:android:5054e9951b7df0df876eeb",
+        "android_client_info": {
+          "package_name": "com.example.flutter_simple_sigin_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926784144498-cc3rcl3m4vhi5hfc2svvtu3a09b43kk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmolcIPDGB-CTNE6QwPhjkKhQaxqu7rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926784144498-cc3rcl3m4vhi5hfc2svvtu3a09b43kk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
